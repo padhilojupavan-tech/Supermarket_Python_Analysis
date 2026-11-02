@@ -1,0 +1,101 @@
+Order ID,Product,Category,Quantity,Price,Sales,Date,Location,Payment Method
+1001,Shampoo,Personal Care,2,110,220,2026-01-04,Vijayawada,Cash
+1002,Milk,Dairy,3,50,150,2026-01-14,Nalgonda,Cash
+1003,Soap,Personal Care,7,45,315,2026-01-05,Khammam,Cash
+1004,Milk,Dairy,4,50,200,2026-03-06,Nalgonda,Cash
+1005,Chips,Snacks,4,20,80,2026-03-25,Nalgonda,UPI
+1006,Milk,Dairy,8,50,400,2026-03-17,Vijayawada,Cash
+1007,Oil,Grocery,12,150,1800,2026-02-24,Vijayawada,UPI
+1008,Oil,Grocery,4,150,600,2026-02-13,Khammam,Cash
+1009,Bread,Bakery,2,40,80,2026-02-15,Vijayawada,Card
+1010,Curd,Dairy,13,60,780,2026-01-06,Warangal,Card
+1011,Wheat,Grocery,15,420,6300,2026-02-18,Khammam,Card
+1012,Curd,Dairy,14,60,840,2026-03-22,Nalgonda,UPI
+1013,Soap,Personal Care,4,45,180,2026-01-09,Khammam,Card
+1014,Milk,Dairy,13,50,650,2026-02-07,Khammam,Cash
+1015,Wheat,Grocery,7,420,2940,2026-02-05,Warangal,Card
+1016,Cheese,Dairy,3,120,360,2026-02-17,Vijayawada,Cash
+1017,Shampoo,Personal Care,5,110,550,2026-03-31,Khammam,Card
+1018,Shampoo,Personal Care,3,110,330,2026-03-10,Hyderabad,Cash
+1019,Biscuits,Snacks,7,30,210,2026-02-04,Nalgonda,Cash
+1020,Shampoo,Personal Care,6,110,660,2026-01-08,Hyderabad,Cash
+1021,Cheese,Dairy,7,120,840,2026-02-04,Khammam,Cash
+1022,Soap,Personal Care,15,45,675,2026-02-10,Hyderabad,Card
+1023,Biscuits,Snacks,7,30,210,2026-03-24,Warangal,Cash
+1024,Curd,Dairy,3,60,180,2026-02-01,Nalgonda,Card
+1025,Curd,Dairy,12,60,720,2026-03-16,Warangal,Card
+1026,Bread,Bakery,6,40,240,2026-01-29,Hyderabad,Card
+1027,Biscuits,Snacks,2,30,60,2026-01-07,Khammam,Cash
+1028,Shampoo,Personal Care,3,110,330,2026-03-29,Warangal,Card
+1029,Wheat,Grocery,7,420,2940,2026-02-18,Nalgonda,UPI
+1030,Chips,Snacks,5,20,100,2026-03-12,Khammam,Card
+1031,Apples,Fruits,2,100,200,2026-03-29,Nalgonda,UPI
+1032,Shampoo,Personal Care,6,110,660,2026-01-15,Vijayawada,UPI
+1033,Oil,Grocery,8,150,1200,2026-01-01,Vijayawada,Card
+1034,Oil,Grocery,9,150,1350,2026-01-14,Vijayawada,Card
+1035,Chips,Snacks,10,20,200,2026-01-26,Hyderabad,UPI
+1036,Oil,Grocery,9,150,1350,2026-03-09,Khammam,Card
+1037,Cheese,Dairy,8,120,960,2026-01-03,Khammam,UPI
+1038,Curd,Dairy,4,60,240,2026-01-08,Hyderabad,Card
+1039,Wheat,Grocery,2,420,840,2026-03-04,Khammam,Card
+1040,Oil,Grocery,3,150,450,2026-03-26,Warangal,Card
+1041,Oil,Grocery,5,150,750,2026-03-09,Nalgonda,UPI
+1042,Milk,Dairy,15,50,750,2026-03-11,Hyderabad,Card
+1043,Curd,Dairy,7,60,420,2026-03-27,Vijayawada,UPI
+1044,Chips,Snacks,8,20,160,2026-01-16,Hyderabad,Cash
+1045,Wheat,Grocery,6,420,2520,2026-01-03,Nalgonda,Card
+1046,Milk,Dairy,10,50,500,2026-01-29,Khammam,Cash
+1047,Apples,Fruits,11,100,1100,2026-01-08,Hyderabad,Cash
+1048,Rice,Grocery,14,500,7000,2026-02-12,Khammam,Card
+1049,Milk,Dairy,5,50,250,2026-03-27,Warangal,Cash
+1050,Chips,Snacks,3,20,60,2026-03-15,Nalgonda,UPI
+1051,Milk,Dairy,13,50,650,2026-03-02,Warangal,Cash
+1052,Wheat,Grocery,2,420,840,2026-03-26,Warangal,UPI
+1053,Bread,Bakery,7,40,280,2026-03-01,Khammam,Card
+1054,Shampoo,Personal Care,11,110,1210,2026-01-13,Khammam,UPI
+1055,Apples,Fruits,6,100,600,2026-01-14,Hyderabad,Cash
+1056,Milk,Dairy,9,50,450,2026-02-27,Hyderabad,UPI
+1057,Oil,Grocery,5,150,750,2026-03-01,Hyderabad,Cash
+1058,Biscuits,Snacks,13,30,390,2026-03-12,Khammam,Cash
+1059,Shampoo,Personal Care,9,110,990,2026-01-02,Khammam,Cash
+1060,Oil,Grocery,7,150,1050,2026-03-04,Warangal,Cash
+1061,Bread,Bakery,15,40,600,2026-01-08,Hyderabad,UPI
+1062,Rice,Grocery,7,500,3500,2026-02-03,Warangal,UPI
+1063,Bread,Bakery,12,40,480,2026-03-13,Warangal,Cash
+1064,Milk,Dairy,5,50,250,2026-01-28,Khammam,Card
+1065,Apples,Fruits,9,100,900,2026-01-08,Vijayawada,Cash
+1066,Rice,Grocery,10,500,5000,2026-03-03,Nalgonda,Card
+1067,Oil,Grocery,1,150,150,2026-03-07,Khammam,Cash
+1068,Wheat,Grocery,10,420,4200,2026-01-09,Hyderabad,UPI
+1069,Wheat,Grocery,15,420,6300,2026-03-14,Hyderabad,Card
+1070,Soap,Personal Care,1,45,45,2026-03-21,Khammam,UPI
+1071,Shampoo,Personal Care,10,110,1100,2026-03-14,Nalgonda,UPI
+1072,Curd,Dairy,4,60,240,2026-03-27,Vijayawada,Cash
+1073,Curd,Dairy,7,60,420,2026-01-17,Vijayawada,UPI
+1074,Cheese,Dairy,15,120,1800,2026-01-10,Khammam,UPI
+1075,Soap,Personal Care,10,45,450,2026-01-13,Khammam,Card
+1076,Milk,Dairy,9,50,450,2026-02-03,Hyderabad,UPI
+1077,Wheat,Grocery,15,420,6300,2026-02-01,Vijayawada,UPI
+1078,Oil,Grocery,8,150,1200,2026-03-11,Vijayawada,Card
+1079,Shampoo,Personal Care,9,110,990,2026-01-02,Nalgonda,UPI
+1080,Shampoo,Personal Care,2,110,220,2026-01-18,Vijayawada,Cash
+1081,Wheat,Grocery,12,420,5040,2026-03-12,Hyderabad,UPI
+1082,Curd,Dairy,10,60,600,2026-01-27,Vijayawada,Cash
+1083,Shampoo,Personal Care,11,110,1210,2026-02-03,Nalgonda,UPI
+1084,Curd,Dairy,15,60,900,2026-01-07,Khammam,Card
+1085,Bread,Bakery,14,40,560,2026-02-05,Khammam,Cash
+1086,Cheese,Dairy,13,120,1560,2026-01-17,Vijayawada,Cash
+1087,Apples,Fruits,8,100,800,2026-03-12,Warangal,Card
+1088,Rice,Grocery,2,500,1000,2026-01-10,Hyderabad,Card
+1089,Rice,Grocery,14,500,7000,2026-02-17,Nalgonda,Card
+1090,Oil,Grocery,7,150,1050,2026-01-17,Khammam,UPI
+1091,Cheese,Dairy,15,120,1800,2026-01-06,Vijayawada,Cash
+1092,Shampoo,Personal Care,4,110,440,2026-03-27,Khammam,UPI
+1093,Chips,Snacks,15,20,300,2026-02-22,Nalgonda,Card
+1094,Oil,Grocery,15,150,2250,2026-01-31,Hyderabad,Cash
+1095,Bread,Bakery,1,40,40,2026-01-23,Vijayawada,UPI
+1096,Shampoo,Personal Care,14,110,1540,2026-02-01,Vijayawada,Cash
+1097,Apples,Fruits,2,100,200,2026-02-18,Khammam,UPI
+1098,Milk,Dairy,4,50,200,2026-02-28,Vijayawada,UPI
+1099,Milk,Dairy,4,50,200,2026-01-04,Hyderabad,UPI
+1100,Cheese,Dairy,5,120,600,2026-01-09,Vijayawada,UPI
